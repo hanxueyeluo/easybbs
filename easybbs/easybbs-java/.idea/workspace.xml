@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63bcfed7-ab62-4fa2-98c5-aa3376829195" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.9.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.9.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ankrycx65CeSs8TxMIAkFvPuIM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/javaproject/homework/springIoc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "a883b967429a107acdda17680cddd2a9",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 方言": [
+      "MySQL"
+    ]
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.easybbs.entity.vo.web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaproject\easybbs-java\easybbs-web\src\main\resources" />
+      <recent name="D:\javaproject\easybbs-java\easybbs-admin\src\main\resources" />
+      <recent name="D:\javaproject\easybbs-java\easybbs-admin\src\main\java\com\easybbs\controller" />
+      <recent name="D:\javaproject\easybbs-java\easybbs-admin\src\main\java\com\easybbs" />
+      <recent name="D:\javaproject\easybbs-java\easybbs-common\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.easybbs.controller" />
+      <recent name="com.easybbs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EasybbsAdminApplication">
+    <configuration name="EasybbsAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="easybbs-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easybbs.EasybbsAdminApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easybbs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasybbsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="easybbs-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easybbs.EasybbsWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easybbs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EasybbsAdminApplication" />
+      <item itemvalue="Spring Boot.EasybbsWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EasybbsAdminApplication" />
+        <item itemvalue="Spring Boot.EasybbsWebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="63bcfed7-ab62-4fa2-98c5-aa3376829195" name="更改" comment="" />
+      <created>1704961933780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704961933780</updated>
+      <workItem from="1704961935257" duration="9923000" />
+      <workItem from="1704972580373" duration="1695000" />
+      <workItem from="1705053164291" duration="750000" />
+      <workItem from="1705053927878" duration="575000" />
+      <workItem from="1705054513378" duration="76000" />
+      <workItem from="1705054598260" duration="222000" />
+      <workItem from="1705054832030" duration="1656000" />
+      <workItem from="1705058328151" duration="141000" />
+      <workItem from="1705058610230" duration="9752000" />
+      <workItem from="1705122399264" duration="15357000" />
+      <workItem from="1705142207915" duration="2094000" />
+      <workItem from="1705215645445" duration="4171000" />
+      <workItem from="1705219909316" duration="2803000" />
+      <workItem from="1705222726042" duration="6621000" />
+      <workItem from="1705299225815" duration="8629000" />
+      <workItem from="1705319687246" duration="10651000" />
+      <workItem from="1705390975540" duration="17599000" />
+      <workItem from="1705417032870" duration="76000" />
+      <workItem from="1705462634108" duration="15823000" />
+      <workItem from="1705575790794" duration="9535000" />
+      <workItem from="1705731762408" duration="12860000" />
+      <workItem from="1705823877983" duration="6517000" />
+      <workItem from="1705906363436" duration="11845000" />
+      <workItem from="1705989712304" duration="2837000" />
+      <workItem from="1705992938068" duration="10625000" />
+      <workItem from="1706162675420" duration="19585000" />
+      <workItem from="1706249491771" duration="2780000" />
+      <workItem from="1706337976062" duration="11335000" />
+      <workItem from="1706422395043" duration="8542000" />
+      <workItem from="1706510219165" duration="3618000" />
+      <workItem from="1706862120069" duration="82000" />
+      <workItem from="1706863662252" duration="23000" />
+      <workItem from="1707217970175" duration="7399000" />
+      <workItem from="1707651990935" duration="3097000" />
+      <workItem from="1707655101290" duration="18000" />
+      <workItem from="1707891030307" duration="25413000" />
+      <workItem from="1708781541310" duration="466000" />
+      <workItem from="1708936365407" duration="15136000" />
+      <workItem from="1709002978227" duration="4787000" />
+      <workItem from="1709026431532" duration="4615000" />
+      <workItem from="1709083467071" duration="7142000" />
+      <workItem from="1709187424625" duration="3544000" />
+      <workItem from="1709215558966" duration="1332000" />
+      <workItem from="1709257305296" duration="3023000" />
+      <workItem from="1709286595830" duration="1694000" />
+      <workItem from="1709290599949" duration="8062000" />
+      <workItem from="1709365465574" duration="11427000" />
+      <workItem from="1709449433228" duration="6617000" />
+      <workItem from="1709538831419" duration="5674000" />
+      <workItem from="1709619049158" duration="8117000" />
+      <workItem from="1709689810152" duration="2095000" />
+      <workItem from="1709721903681" duration="8510000" />
+      <workItem from="1709793316854" duration="9116000" />
+      <workItem from="1709813369384" duration="4876000" />
+      <workItem from="1709822737995" duration="3000" />
+      <workItem from="1709863159230" duration="3869000" />
+      <workItem from="1709948664307" duration="1972000" />
+      <workItem from="1710229454402" duration="1004000" />
+      <workItem from="1710231692364" duration="610000" />
+      <workItem from="1710234983225" duration="220000" />
+      <workItem from="1710235213396" duration="3000" />
+      <workItem from="1710298888820" duration="1146000" />
+      <workItem from="1710468581438" duration="58000" />
+      <workItem from="1710469939123" duration="870000" />
+      <workItem from="1710555749528" duration="3562000" />
+      <workItem from="1710828125070" duration="18000" />
+      <workItem from="1710902011294" duration="1102000" />
+      <workItem from="1711074548465" duration="190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easybbs-common/src/main/java/com/easybbs/service/impl/InfoServiceImpl.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/easybbs-common/src/main/java/com/easybbs/service/impl/CommentServiceImpl.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="(sessionWebUserDto==null || !sessionWebUserDto.getUserId().equals(forumArticle.getUserId()) &amp;&amp; !sessionWebUserDto.getAdmin())" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

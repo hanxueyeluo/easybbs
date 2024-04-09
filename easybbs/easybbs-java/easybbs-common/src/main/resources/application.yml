@@ -1,0 +1,5 @@
+mybatis:
+  # 映射文件的配置
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
